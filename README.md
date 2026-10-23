@@ -1,4 +1,4 @@
-# qouran
+# qouran.
 
 مشروع Android Java أُنشئ بـ KlencodIDE.
 
